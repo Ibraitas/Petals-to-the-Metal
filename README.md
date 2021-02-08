@@ -1,4 +1,4 @@
-# Petals-to-the-Metal
+# Petals to the Metal
 
 ## Competition description
 
