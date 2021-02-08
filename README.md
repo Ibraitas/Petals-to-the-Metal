@@ -14,10 +14,13 @@ In this competition, you’re challenged to build a machine learning model that 
 
 ## Results
 
-+ 
++ Orginized images of different flowers from Kaggle dataset, labeled them;
++ Picked up the right learning rate scheduler for network;
++ Augmented data with custom rotation;
++ Build network using keras.Sequential based on DenseNet201 to classify images.
 
 ## Resources used
 
 + Python Version: 3.7.4;
-+ Packages: numpy, pandas, matplotlib, sklearn, tensorflow, kaggle_datasets, random, re, math;
++ Packages: numpy, pandas, matplotlib, sklearn, keras, tensorflow, kaggle_datasets, random, re, math;
 + [TPU](https://cloud.google.com/tpu/docs).
