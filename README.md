@@ -1,4 +1,4 @@
-# Petals to the Metal
+# Petals to the Metal: Project Preview
 
 ## Competition description
 
